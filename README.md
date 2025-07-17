@@ -73,7 +73,7 @@ Kami menawarkan aplikasi absensi berbasis QR Code yang dirancang secara sederhan
 | Database     | PostgreSQL     |
 | QR Code	|react-qr-code|
 | QR Scanner |	react-qr-reader / html5-qrcode|
-| Hosting      | Cloud / VPS            |
+
 
 ---
 
