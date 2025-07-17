@@ -69,18 +69,16 @@ Kami menawarkan aplikasi absensi berbasis QR Code yang dirancang secara sederhan
 
 | Komponen     | Teknologi             |
 |--------------|------------------------|
-| Backend      | Laravel / Node.js      |
-| Frontend     | React / Tailwind CSS   |
-| Database     | MySQL / PostgreSQL     |
-| QR Scanner   | Webcam/Camera support  |
-| Export       | XLSX via server-side   |
+| Framework     | Next.js (Full stack)     |
+| Database     | PostgreSQL     |
+| QR Code	|react-qr-code|
+| QR Scanner |	react-qr-reader / html5-qrcode|
 | Hosting      | Cloud / VPS            |
 
 ---
 
 ## 5. Keuntungan Sistem Ini
 
-✅ Tidak perlu generate QR setiap hari  
 ✅ Proses absensi cepat dan efisien  
 ✅ Admin cukup scan QR dari dashboard  
 ✅ Data aman dan dapat dicadangkan  
@@ -92,10 +90,10 @@ Kami menawarkan aplikasi absensi berbasis QR Code yang dirancang secara sederhan
 
 | Fase                       | Durasi              |
 |----------------------------|---------------------|
-| Setup UI/UX dan alur scan  | 3 hari kerja         |
-| Pengembangan fungsi utama  | 5 – 7 hari kerja     |
-| Testing & revisi ringan    | 2 hari kerja         |
-| **Total estimasi**         | **10 – 12 hari kerja**|
+| Setup UI/UX dan alur scan  | 3 - 7 hari      |
+| Pengembangan fungsi utama  | 7 – 14 hari    |
+| Testing & revisi    | 7- 14 hari       |
+| **Total estimasi**         | **17 – 35 hari**|
 
 ---
 
