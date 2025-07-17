@@ -1,5 +1,5 @@
 
-# 📄 Penawaran Aplikasi Web Absensi QR Code Sederhana
+# 📄 Sistem Web Absensi QR Code 
 
 ## 1. Pendahuluan
 
